@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/busan-react/static/css/main.85768c17.css",
+    "main.js": "/busan-react/static/js/main.6f654a78.js",
+    "index.html": "/busan-react/index.html",
+    "main.85768c17.css.map": "/busan-react/static/css/main.85768c17.css.map",
+    "main.6f654a78.js.map": "/busan-react/static/js/main.6f654a78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85768c17.css",
+    "static/js/main.6f654a78.js"
+  ]
+}
